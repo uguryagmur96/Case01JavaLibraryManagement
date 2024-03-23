@@ -1,0 +1,3 @@
+public enum EStatus {
+    AVAILABLE, UNAVAILABLE, OUTOFSTOCK
+}
